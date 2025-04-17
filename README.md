@@ -4,7 +4,7 @@
 **License**: Apache 2.0  
 **Repository**: [github.com/jwblackston/AS-code-volume-estimator](https://github.com/jwblackston/AS-code-volume-estimator)
 
-## 📌 Project Overview
+## Project Overview
 
 The AS Code Volume Estimator is a tool designed to map medical codes (ICD-10, NDC) to their corresponding descriptions and estimated annual prevalence in the United States. This project aims to enhance audience segmentation and targeting by providing quick access to code-specific volume data.
 
