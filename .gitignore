@@ -1,0 +1,7 @@
+data/\nnotebooks/\nui/\n*.pyc\n__pycache__/
+
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/

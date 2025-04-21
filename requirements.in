@@ -1,0 +1,5 @@
+# requirements.in
+pandas
+notebook
+fastapi
+uvicorn
